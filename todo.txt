@@ -3,11 +3,11 @@ DONE Have a popup display the name of the parish when the user floats the pointe
 DONE Get the code into GitHub.
 DONE Remove the inset map.
 DONE Stop tracking changes to an automatically generated folder, using a .gitignore file.
-Shrink the main map to a specified window size.
+DONE Shrink the main map to a specified window size.
+Add zoom (zoomAndPan attribute plus controls from the svg.js library?)
+Add scroll bars.
 Investigate what has happened to Talland parish.
 Investigate Tideford. Have some new parishes not been shown, whilst some old parishes have also disappeared? How good is this map?
-Add scroll bars.
-Add zoom (zoomAndPan attribute plus controls from the svg.js library?)
 Put the isles of Scilly in the former inset maps's rectangle.
 Make a list of parishes that used to be part of another parish.
 Add code to deal with those parishes which are just part of a former parish.

@@ -3,17 +3,17 @@ $(document).ready(function () {
     const $mapPaths = $('#map-container svg path');
     const $tooltip = $('#tooltip');
 
+    // Initialize the svg.js instance
+    const svg = SVG('svg2').size('100%', '100%');
+
+
+
     // Function to handle the mouseover event
     function handleMouseOver(event) {
         //const regionId = event.target.id;
         const regionId = $(this).attr('id');
         const wholeStyle = $(this).attr('style');
         console.log(`Mouseover on region: ${regionId}`);
-        //console.log(`Mouseover regions style: ${wholeStyle}`);
-        
-        // Add your custom actions here, like displaying tooltips, highlighting regions, etc.
-        //$(event.target).attr('fill', 'red'); // Change 'red' to your desired color
-        
         
         if (regionId == "Coast" || regionId == "Lines" || regionId == "polyline1422" || regionId == "Scotland" || regionId == "Wales" || regionId == "England" || regionId == "Eire" || regionId == "Euro-regions" || regionId == "France" || regionId == "Northern-Ireland" || regionId == "path26" || regionId == "Lakes") {
             console.log("Not over Cornish land, don't highlight anywhere!");
