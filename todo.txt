@@ -1,0 +1,11 @@
+Have the map respond to the mouseover event so that the parish where the pointer is hovering is highlighted by using a different colour or hue.
+Have a popup display the name of the parish when the user floats the pointer over it.
+Get the code into GitHub.
+Remove the inset map.
+Shrink the main map to a specified window size.
+Add scroll bars.
+Add zoom.
+Make a list of parishes that used to be part of another parish.
+Add code to deal with those parishes which are just part of a former parish.
+Make a list of parishes straddling the border with Devon or in Devon for which COPC transcribe records.
+Add those parishes either in Devon or straddling the border with Devon to the SVG map.
