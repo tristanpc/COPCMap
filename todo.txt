@@ -1,7 +1,8 @@
-Have the map respond to the mouseover event so that the parish where the pointer is hovering is highlighted by using a different colour or hue.
-Have a popup display the name of the parish when the user floats the pointer over it.
-Get the code into GitHub.
-Remove the inset map.
+DONE Have the map respond to the mouseover event so that the parish where the pointer is hovering is highlighted by using a different colour or hue.
+DONE Have a popup display the name of the parish when the user floats the pointer over it.
+DONE Get the code into GitHub.
+DONE Remove the inset map.
+Put the isles of Scilly in the former inset maps's rectangle.
 Shrink the main map to a specified window size.
 Add scroll bars.
 Add zoom.
