@@ -2,6 +2,7 @@ DONE Have the map respond to the mouseover event so that the parish where the po
 DONE Have a popup display the name of the parish when the user floats the pointer over it.
 DONE Get the code into GitHub.
 DONE Remove the inset map.
+DONE Stop tracking changes to an automatically generated folder, using a .gitignore file.
 Put the isles of Scilly in the former inset maps's rectangle.
 Shrink the main map to a specified window size.
 Add scroll bars.
